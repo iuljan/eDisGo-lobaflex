@@ -1,6 +1,6 @@
 # eDisGo-lobaflex – Load Balancing Flexibilities
 
-![load_balance_flat](https://user-images.githubusercontent.com/51374526/215474357-33537736-33fa-4777-b681-f1d957aac03e.png)
+![lobaflex – load-balancing potential of distribution grid flexibilities](docs/img/lobaflex_banner.svg)
 
 **lobaflex** is the code base of the Master's thesis
 
