@@ -107,7 +107,7 @@ The workflow (thesis Fig. 4.1) consists of these steps:
 - Additional reinforcement unlocks significant flexibility, but the relation is mostly
   **non-linear**. All grids reached their maximum potential at or below the 60 %
   flexible-load scenario, with reinforcement
-  costs of about **150–250 k€ per installed flexible peak load**. One grid behaved linearly and cost about twice as much.
+  costs of about **150–250 k€ per MW of installed flexible peak load**. One grid behaved linearly and cost about twice as much.
 - Compared to the minimal reinforcement, the extra cost was **2–3×** for half of the
   grids and **≥10×** for the rest.
 - A reinforcement level designed for **40–60 % of the installed flexible load** appears
